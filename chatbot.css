@@ -7,12 +7,19 @@ h4 {
     margin: 0px;
 }
 
+h1 {
+color: white;
+}
+
+div {
+  color: white;
+}
 .btn-talk {
     -webkit-border-radius: 5;
     -moz-border-radius: 5;
     border-radius: 5px;
     font-family: Arial;
-    color: #ffffff;
+    color: white;
     font-size: 14px;
     font-weight: normal;
     background: #4caae8;
@@ -73,7 +80,7 @@ h4 {
 }
 
 #input {
-  background-color: #fff;
+  background-color: white;
   border: 0px solid #C0C2C5;
   font-family: sans-serif;
   color: #000;
